@@ -9,6 +9,7 @@ Painel administrativo para incluir, listar, editar e excluir clientes.
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [PHP](https://www.php.net/)
+- [MySQL](https://www.mysql.com/)
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Styled Components](https://styled-components.com)
@@ -21,6 +22,7 @@ Para rodar este projeto, clone o repositório e siga os passos abaixo:
 ### Pré-requisitos
 
 - PHP
+- MySQL
 - Composer
 - Yarn
 
