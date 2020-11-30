@@ -28,9 +28,13 @@ Para rodar este projeto, clone o repositório e siga os passos abaixo:
 
 ##### Backend
 
-No diretório da api, configure os dados do MySQL, editando o arquivo:
+Crie o banco importando o arquivo:
 
-`src/Config/DatabaseConnection.php`
+`api/src/Config/kabum.sql`
+
+Configure os dados do MySQL, editando o arquivo:
+
+`api/src/Config/DatabaseConnection.php`
 
 Instale as dependências:
 
@@ -49,3 +53,8 @@ No diretório do frontend:
 Após instalação das dependências, execute:
 
 `yarn start`
+
+Para acessar o painel, utilize o usuário e senha:
+
+`Usuário: admin`
+`Senha: admin`
