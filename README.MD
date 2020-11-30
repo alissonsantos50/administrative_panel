@@ -1,4 +1,4 @@
-![Administrative Panel](https://github.com/alissonsantos50/crud_panel_frontend/blob/master/src/assets/mockup.png?raw=true)
+![Administrative Panel](https://github.com/alissonsantos50/administrative_panel/blob/master/frontend/src/assets/mockup.png?raw=true)
 
 ## Sobre o Projeto
 
